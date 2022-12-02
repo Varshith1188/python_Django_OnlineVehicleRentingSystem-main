@@ -1,1 +1,1 @@
-SE
+python Django project
